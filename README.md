@@ -4,3 +4,5 @@
 Building html style
 ~~~ Second commit ~~~
 Add javascript to page
+~~~ Third commit ~~~
+Finish the application
